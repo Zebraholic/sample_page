@@ -15,46 +15,6 @@ body {
     background-color: #5D5D5D;
 }
 
-.text-muted {
-    color: #C3C6C6;
-    text-align: left;
-    font-family: "Open Sans", sans-serif;
-    font-size: 1em;
-    font-weight: 600;
-    line-height: 1.4em;
-    padding-right: 2em;
-}
-
-.text-muted1 {
-    color: #C3C6C6;
-    text-align: left;
-    font-family: "Open Sans", sans-serif;
-    font-size: .8em;
-    line-height: 1.2em;
-    padding-left: 5px;
-    padding-top: 20px;
-}
-
-.text-muted2 {
-    color: #C3C6C6;
-    text-align: left;
-    font-family: "Open Sans", sans-serif;
-    font-size: .8em;
-    line-height: 1.2em;
-    padding-left: 100px;
-    vertical-align: center;
-}
-
-.text-muted-center {
-    color: #777;
-    text-align: center;
-    font-family: "Open Sans", Arial; 
-}
-
-.text-primary {
-    color: #7CC235;
-}
-
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -105,19 +65,11 @@ img {
 .img-wrap {
     display: inline-block;
     float: left;
+    padding-bottom: 10px;
 }
 
 .img-wrap1 {
-    display: inline-block;
-    float: right;
-    padding-top: 5px;
-}
-
-.img-wrap2 {
-    display: inline-block;
-    float: right;
-    padding-top: 13px;
-    padding-right: 30px;
+    padding-right: 20px;
 }
 
 .bg-light-gray {
@@ -404,25 +356,6 @@ img::-moz-selection {
     background: 0 0;
 }
 
-#text-green {
-    text-transform: none;
-    font-family: "Open Sans", sans-serif;
-    font-weight: 600;
-    font-size: 1.2em;
-    color: #7CC235;
-    text-align: left;
-    margin-top: 0;
-}
-
-#text-white {
-    color: #fff;
-    text-align: left;
-    font-family: "Open Sans", sans-serif;
-    font-size: 1em;
-    font-weight: 600;
-    line-height: 1.4em;
-}
-
 .icon-top {
     display: block;
     margin-left: auto;
@@ -482,7 +415,8 @@ img::-moz-selection {
 }
 
 .how-much {
-    padding-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
 }
 
 .content-white {
@@ -540,7 +474,7 @@ img::-moz-selection {
 
 .text-black1 {
     color: #484848;
-    text-align: left;
+    text-align: center;
     font-family: "Open Sans", sans-serif;
     font-size: .9em;
     font-weight: 400;
@@ -566,6 +500,34 @@ img::-moz-selection {
     font-size: 1.2em;
     font-weight: 600;
     line-height: 1.5em;
+}
+
+.text-muted {
+    color: #C3C6C6;
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.4em;
+    padding-right: 2em;
+}
+
+.text-muted1 {
+    color: #C3C6C6;
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-size: .8em;
+    line-height: 1.2em;
+}
+
+.text-muted-center {
+    color: #777;
+    text-align: center;
+    font-family: "Open Sans", Arial; 
+}
+
+.text-primary {
+    color: #7CC235;
 }
 
 #arrow {
@@ -603,6 +565,16 @@ img::-moz-selection {
     padding-top: 20px;
     padding-left: 10px;
 }
+
+.pull-right {
+    margin-right: 20px;
+}
+
+
+
+
+
+
 
 
 
