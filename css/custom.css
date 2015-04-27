@@ -518,6 +518,9 @@ img::-moz-selection {
     font-family: "Open Sans", sans-serif;
     font-size: .8em;
     line-height: 1.2em;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
 }
 
 .text-muted-center {
@@ -566,9 +569,11 @@ img::-moz-selection {
     padding-left: 10px;
 }
 
-.pull-right {
-    margin-right: 20px;
+.center-block {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
 
 
 
