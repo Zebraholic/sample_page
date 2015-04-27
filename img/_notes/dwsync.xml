@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?><dwsync><file name=".DS_Store" server="roberttavares.com/public_html/" local="3506948097" remote="12096921152" /><file name="logo.svg" server="roberttavares.com/public_html/" local="3507001866" remote="12096929312" /><file name="icon.png" server="roberttavares.com/public_html/" local="3507004097" remote="12096932012" /></dwsync>
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8" ?><dwsync><file name=".DS_Store" server="roberttavares.com/public_html/" local="3506948097" remote="12096921152" /><file name="logo.svg" server="roberttavares.com/public_html/" local="3507001866" remote="12096929312" /><file name="icon.png" server="roberttavares.com/public_html/" local="3507004097" remote="12096932012" /></dwsync>
+=======
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".DS_Store" server="roberttavares.com/public_html/" local="3506948097" remote="12096921152" />
+<file name="logo.svg" server="roberttavares.com/public_html/" local="3507001866" remote="12096929312" />
+<file name="icon.png" server="roberttavares.com/public_html/" local="3507004097" remote="12096932012" />
+</dwsync>
+>>>>>>> 9484e1c64aa4cd24fb430ae17b77cec985494bd4
